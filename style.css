@@ -1,0 +1,7 @@
+#loading, #results{
+    display: none;
+}
+.btn, .heading {
+   background-color: purple;
+   color: white;
+}
